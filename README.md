@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz front-end development eğitimi için ilk repo
+![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
